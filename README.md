@@ -26,7 +26,7 @@
 I'm a **Senior Full-Stack & Mobile Engineer** with 4+ years building systems that operate at government scale — where downtime isn't an option and data loss isn't acceptable.
 
 - 🏛️ Shipped mobile apps serving **100,000+ citizens** across U.S. state governments
-- 🔐 Built **VerifyID.ai** from 0→1 — an ML identity platform that closed **3+ government contracts**
+- 🔐 Built **VerifyID.ai** from 0→1 — an ML identity platform that closed **government contracts**
 - ⚙️ Engineered **offline-first sync engines** that hold zero data loss across 500+ concurrent field agents
 - 🤖 Deployed production **AI agent platforms** with Claude Code + MCP server infrastructure
 - 📦 Zero SLA violations. Zero downtime migrations. 4 years straight.
@@ -89,7 +89,7 @@ const stack = {
 > ML-powered identity verification platform — built from zero
 
 - ID validation · Face matching · Liveness detection · Deepfake detection
-- **Directly closed 3+ U.S. government contracts** as the org's flagship sales asset
+- **Directly closed U.S. government contracts** as the org's flagship sales asset
 - Extended to real-time facial recognition: **sub-2s latency · 99.9% uptime**
 - Owned roadmap, sprint planning, and C-suite technical alignment
 
